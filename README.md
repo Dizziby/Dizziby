@@ -1,4 +1,6 @@
-### Hello! My Name is Pavel 👋
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=502&height=190&section=header&text=Pavel%20Kukayeu&desc=%20&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=17"/>
+</div>
 
 <div align="center">
     <a href="https://reactjs.org/">
@@ -9,10 +11,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
              title="Redux" alt="Redux"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://mui.com/">
+<!--     <a href="https://mui.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
              title="Material UI" alt="Material UI"
-             width="40" height="40"/></a>&nbsp;
+             width="40" height="40"/></a>&nbsp; -->
     <a href="https://www.typescriptlang.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
              title="TypeScript" alt="TypeScript"
@@ -29,6 +31,18 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
              title="CSS3" alt="CSS"
              width="40" height="40"/></a>&nbsp;
+    <a href="https://storybook.js.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg"
+             title="Story book" alt="Story book"
+             width="40" height="40"/></a>&nbsp;
+     <a href="https://sass-lang.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+             title="SASS" alt="SASS"
+             width="40" height="40"/></a>&nbsp;         
+        <a href="https://eslint.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"
+             title="Eslint" alt="Eslint "
+             width="40" height="40"/></a>&nbsp;  
     <a href="https://git-scm.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
