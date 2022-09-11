@@ -1,8 +1,4 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=502&height=190&section=header&text=Pavel%20Kukayeu&desc=%20&animation=fadeIn&fontColor=fff&fontSize=75&fontAlign=68&fontAlignY=34&descSize=18&descAlign=82.5&descAlignY=17"/>
-</div>
-
-<div align="center">
     <a href="https://reactjs.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
              title="React" alt="React"
