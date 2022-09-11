@@ -1,4 +1,4 @@
-### Hello! My name is Pavel 👋
+### Hello! My Name is Pavel 👋
 
 <!--
 **Dizziby/Dizziby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
